@@ -1,4 +1,4 @@
-This repo consist of week 1 summary of Zolvit Bootcamp
+This repo consist of week 1 progress of Zolvit Bootcamp
 
 # Week 1 Summary Report
 
